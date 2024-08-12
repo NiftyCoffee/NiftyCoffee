@@ -4,6 +4,8 @@ I'm <a href="https://zoetaydev.com/" target="_blank">Zoe</a>, a front-end develo
 
 I am interested in front-end web development and crafting beautiful yet practical user experiences on the web.
 
+What I've Worked With
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,python,java,mongodb,figma)](https://skillicons.dev)
 
 Outside of tech, I also do music and regularly sing covers on YouTube!
